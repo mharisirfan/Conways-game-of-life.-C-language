@@ -1,0 +1,14 @@
+This Folder Contains the following:
+
+1-conways.c and conways.h files in a folder.
+2-Project Report.
+3-Full CodeBlock Program.
+4-MiniProject 2 questionare pdf.
+
+
+
+Submitted by:
+
+Muhammad Haris Irfan
+FA18-BCE-090
+BCE-2B

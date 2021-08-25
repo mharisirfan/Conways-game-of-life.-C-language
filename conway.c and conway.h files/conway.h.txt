@@ -1,0 +1,1 @@
+void  next_tick (char *ptr_prev, char *ptr_next, int m, int n);
